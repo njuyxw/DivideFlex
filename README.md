@@ -26,4 +26,3 @@ You can use requirements.txt for building dependencies.
 ```
 python learning.py --load_path last_model.pth --noise_type [noise_type]
 ```
->>>>>>> 1a84375... update readme
