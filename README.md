@@ -6,7 +6,7 @@ You can use requirements.txt for building dependencies.
 
 ## Usage
 
-1. You can run run.sh with 5 pre-fixed seeds. Each run will be evaluated w.r.t. a random selected subset of CIFAR-10/CIFAR-100 test data with replacement, and take the average performance of 5 runs.
+1. You can run run.sh with 5 pre-fixed seeds. Each run will be evaluated w.r.t. a random selected subset of CIFAR-10 test data with replacement, and take the average performance of 5 runs.
 2. run learning.py
 ```
 python learning.py --load_path last_model.pth --noise_type [noise_type]
