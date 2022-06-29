@@ -1,0 +1,10 @@
+**/checkpoint/
+**/checkpoints/
+**/runs/
+**/__pycache__/
+**/.DS_Store
+**/savings
+**/saved_models/
+**/cifar-10-batches-py/
+**/cifar-100-python/
+
